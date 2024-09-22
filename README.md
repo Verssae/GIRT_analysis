@@ -21,6 +21,7 @@ To run the analysis code, you'll need the following dependencies:
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 - Jupyter Notebook
 
 ## Results
